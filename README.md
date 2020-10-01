@@ -1,4 +1,4 @@
-debt.is and debtcollective.org
+debt.is and debtcollective.org - An Amazing Project
 =======
 
 # DEPRECATED
